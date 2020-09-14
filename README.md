@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/static/v1?label=Github&message=%E2%9D%A4&logo=GitHub&style=for-the-badge)](https://github.com/tiagomichaelsousa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tmichaelsousa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftiagomichaelsousa&screen_name=tmichaelsousa)
 
-## Software Engineer at [<img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="18" />][xgeeks] by group [<img src="https://www.kigroup.de/favicon-32x32.png" alt="kigroup" width="20" />][kigroup]
+## Software Engineer at [<img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="18" />][xgeeks] by [<img src="https://www.kigroup.de/favicon-32x32.png" alt="kigroup" width="20" />][kigroup] group
 
 - ☁️ &nbsp; Working on a cloud solution
 - 🎓 &nbsp; Always trying to lear new things
@@ -45,7 +45,8 @@
 ## 📖 &nbsp; Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [1 on 1  with Laravel package development](https://medium.com/xgeeks/1-on-1-with-laravel-package-development-12de93953e?source=rss-b0d3f045696e------2)
+
+- [1 on 1 with Laravel package development](https://medium.com/xgeeks/1-on-1-with-laravel-package-development-12de93953e?source=rss-b0d3f045696e------2)
 <!-- BLOG-POST-LIST:END -->
 
 → &nbsp; [Check out more...](https://medium.com/@tiagomichaelsousa)
