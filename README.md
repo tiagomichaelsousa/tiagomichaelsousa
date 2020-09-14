@@ -7,8 +7,8 @@
 
 - ☁️ &nbsp; Working on a cloud solution
 - 🎓 &nbsp; Always trying to learn new things
-- 🤖 &nbsp; Automation is the key
-- 💨 &nbsp; trying to make problems go like poof as my friend [@joaomarques][ruau] always says
+- 🤖 &nbsp; Automation is key
+- 💨 &nbsp; "trying to make problems go like poof" [@joaomarques][ruau]
 - 🥅 &nbsp; 2020 Goals: Contribute to Open Source projects
 
 ### Connect with me:
