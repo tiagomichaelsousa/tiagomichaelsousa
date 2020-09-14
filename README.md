@@ -6,9 +6,9 @@
 ## Software Engineer at [<img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="18" />][xgeeks] by [<img src="https://www.kigroup.de/favicon-32x32.png" alt="kigroup" width="20" />][kigroup] group
 
 - ☁️ &nbsp; Working on a cloud solution
-- 🎓 &nbsp; Always trying to lear new things
+- 🎓 &nbsp; Always trying to learn new things
 - 🤖 &nbsp; Automation is the key
-- 💨 &nbsp; trying to make problems go like poof like my friend [@joaomarques][ruau] always says
+- 💨 &nbsp; trying to make problems go like poof as my friend [@joaomarques][ruau] always says
 - 🥅 &nbsp; 2020 Goals: Contribute to Open Source projects
 
 ### Connect with me:
