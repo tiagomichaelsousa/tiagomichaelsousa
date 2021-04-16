@@ -45,6 +45,7 @@
 ## 📖 &nbsp; Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick Preview — cloudmobility Hackathon](https://medium.com/cloudmobility/quick-preview-cloudmobility-hackathon-99282031857e?source=rss-b0d3f045696e------2)
 - [1 on 1  with Laravel package development](https://medium.com/xgeeks/1-on-1-with-laravel-package-development-12de93953e?source=rss-b0d3f045696e------2)
 <!-- BLOG-POST-LIST:END -->
 
