@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Software Engineer at [<img src="https://xgeeks.io//assets/images/favicon.png" alt="xgeeks" width="18" />][xgeeks]
+## Software Engineer at [<img src="https://xgeeks.com/assets/images/xgeeks_logo.svg" alt="xgeeks" width="50" />][xgeeks]
 
 - ☁️ &nbsp; Working on a cloud solution
 - 🎓 &nbsp; Always trying to learn new things
@@ -92,7 +92,7 @@
 
 [twitter]: https://twitter.com/tmichaelsousa
 [linkedin]: https://www.linkedin.com/in/tiagomichaelsousa
-[xgeeks]: https://xgeeks.io
+[xgeeks]: https://xgeeks.com
 [kigroup]: https://www.kigroup.de
 [ruau]: https://github.com/jpmarques66
 [vscode]: https://code.visualstudio.com
